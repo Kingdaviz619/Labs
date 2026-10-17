@@ -19,10 +19,6 @@ For this project, VMware Workstation Pro was installed on a Linux Mint host.
 
 Note: Installation procedures vary depending on the host operating system and installer format. Refer to the official documentation for the appropriate procedure.
 
-Documentation evidence to add:
-
-
-
 ---
 
 2. Creating and Configuring the OPNsense Virtual Machine
@@ -50,13 +46,6 @@ Configuration considerations
 - Ensure that each virtual network has a clearly defined purpose.
 - Avoid overlapping IP address ranges.
 - Record the IP address, subnet mask, and intended function of each interface.
-
-Documentation evidence to add:
-
-- Screenshot of the OPNsense VM hardware settings.
-- Screenshot of its virtual network adapters.
-- Screenshot of the interface assignments.
-- Screenshot of the firewall dashboard.
 
 ---
 
@@ -302,20 +291,6 @@ Diagnostic approach:
 3. Test connectivity to an external IP address from an appropriate lab system.
 4. Test DNS resolution separately.
 5. Review firewall and outbound NAT configuration where applicable.
-
-Troubleshooting documentation
-
-For every significant issue encountered, record:
-
-- Problem: What failed?
-- Symptoms: What did you observe?
-- Investigation: Which commands, logs, or settings did you inspect?
-- Root cause: What caused the problem, if established?
-- Solution: What changes resolved it?
-- Verification: How did you confirm the fix worked?
-- Lessons learned: What will you do differently next time?
-
-This makes the documentation useful to anyone trying to understand or reproduce your lab.
 
 ---
 

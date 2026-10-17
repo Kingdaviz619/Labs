@@ -1,27 +1,21 @@
 Hypervisor - VMware workstation pro 25H2
 
 
-Virtual machine
-Purpose
-RAM
-Virtual disk
-Kali Linux
-Security testing
-Your actual allocation
-Your actual allocation
-Ubuntu Server
-Server administration and monitoring
-Your actual allocation
-Your actual allocation
-Windows 10
-Windows security testing
-Your actual allocation
-Your actual allocation
-Windows Server
-Active Directory lab
-Your actual allocation
-Your actual allocation
-OPNsense
-Firewall and network routing
-Your actual allocation
-Your actual allocation
+VMs      Purpose               RAM     CPU     Disk
+
+Kali     Security testing      2gb     1        80gb
+
+Ubuntu   Server administration 1gb     1        20gb
+Server   and monitoring 
+
+Win10    Windows administration 1gb    1        60gb
+&        and Active Directory
+Windows  Lab                    1gb    1        60gb
+Server
+
+OPNsense Firewall & network     512mb  1        20gb
+         routing
+ 
+
+Metasploitable  Vulnerable.     1gb    1        40
+3                Target

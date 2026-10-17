@@ -21,8 +21,7 @@ Note: Installation procedures vary depending on the host operating system and in
 
 Documentation evidence to add:
 
-- Screenshot of the downloaded installer.
-- Screenshot of VMware Workstation running successfully.
+
 
 ---
 

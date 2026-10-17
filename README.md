@@ -1,4 +1,4 @@
-# Labs 🖥️
+# The Terminal 🖥️
 A hands-on journey through Linux, networking, programming, and cybersecurity
 
 Welcome to my lab, where I explore technology through hands-on experiments.
